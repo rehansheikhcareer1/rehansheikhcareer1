@@ -67,16 +67,16 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ---
 
 ### **Core Competencies**
-- 🔐 Authentication (Session & JWT)  
-- 🗂️ Data Modeling  
-- 🎯 API Design & Integration  
-- 📱 Responsive UI  
-- 🐞 Debugging & Optimization  
-- 🔍 Basic Security Practices (OWASP mindset)
+- ➡️ Authentication (Session & JWT)  
+- ➡️ Data Modeling  
+- ➡️ API Design & Integration  
+- ➡️ Responsive UI  
+- ➡️ Debugging & Optimization  
+- ➡️ Basic Security Practices (OWASP mindset)
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 Featured Projects
 
 ### 🌐 **1️⃣ Qairi – Real-time Air Quality Dashboard**
 **Tech Stack:** `Python` `Django` `FastAPI` `React.js` `Chart.js` `REST APIs`
